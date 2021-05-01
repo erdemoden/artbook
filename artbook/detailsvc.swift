@@ -40,20 +40,20 @@ class detailsvc: UIViewController , UIImagePickerControllerDelegate , UINavigati
                
                 let oldu = try context.fetch(fetch)
                 if oldu.count > 0{
-                for olmuş in oldu as! [NSManagedObjectModel]{
-                    if let name = olmuş.value(forKey: "name") as? String{
+                for olmus in oldu as! [NSManagedObject]{
+                    if let name = olmus.value(forKey: "name") as? String{
                         nametext.text = name
                         
                     }
-                    if let artist = olmuş.value(forKey: "artis") as? String{
+                    if let artist = olmus.value(forKey: "artist") as? String{
                                            artisttext.text = artist
                                            
                                        }
-                    if let year = olmuş.value(forKey: "year") as? Int{
+                    if let year = olmus.value(forKey: "year") as? Int{
                                            yeartext.text = String(year)
                                            
                                        }
-                    if let imageol = olmuş.value(forKey: "image") as? Data{
+                    if let imageol = olmus.value(forKey: "image") as? Data{
                         image.image = UIImage(data: imageol)
                                            
                                        }
