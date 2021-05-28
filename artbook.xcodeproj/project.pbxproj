@@ -105,7 +105,6 @@
 		19AA6BD425DB1A40002307BD /* artbook */ = {
 			isa = PBXGroup;
 			children = (
-				19BDD61325DC1C2D00E75F78 /* select.png */,
 				19AA6BD525DB1A40002307BD /* AppDelegate.swift */,
 				19AA6BD725DB1A40002307BD /* SceneDelegate.swift */,
 				19AA6BD925DB1A40002307BD /* ViewController.swift */,
@@ -113,6 +112,7 @@
 				19AA6C0825DB1CCE002307BD /* detailsvc.swift */,
 				19AA6BE325DB1A41002307BD /* LaunchScreen.storyboard */,
 				19AA6BE625DB1A41002307BD /* Info.plist */,
+				19BDD61325DC1C2D00E75F78 /* select.png */,
 				19AA6BE125DB1A41002307BD /* Assets.xcassets */,
 				19AA6BDE25DB1A40002307BD /* artbook.xcdatamodeld */,
 			);
