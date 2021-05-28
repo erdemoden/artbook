@@ -8,21 +8,21 @@ Proje ilk açıldığında sizi bir tableview karşılıyor,ve üst kısımda da
 
 # -1-
 
-![](uygulama-image-1)
+![](uygulama-image-1.PNG)
 
 # -2-
 
-![](uygulama-image-2)
+![](uygulama-image-2.jpeg)
 
 # -3-
 
-![](uygulama-image-3)
+![](uygulama-image-3.PNG)
 
 # -4-
 
-![](uygulama-image-4)
+![](uygulama-image-4.PNG)
 
 # -5-
 
-![](uygulama-image-5)
+![](uygulama-image-5.PNG)
 
