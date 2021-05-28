@@ -4,3 +4,25 @@ Bu projeyi atil samancıoğlundan aldığım udemy kursuyla yaptım.Bu projede b
 Proje ilk açıldığında sizi bir tableview karşılıyor,ve üst kısımda da + işareti olarak right bar button item var.butona tıkladığınız zaman sizi diğer sayfaya yönlendiriyor.Yönlendirdiği sayfada resim seçebiliyorsunuz select image kısmına basarak ve diğer kısımları da artist isimi resim isimi ve yıl textfieldlarını doldurup kayıt edebiliyorsunuz eğer bütün kısımları doldurmazsanız save button active olmuyor.Tüm kısımları doldurup save butonuna basarsanız resim de dahil olmak üzere girdiğiniz bütün değerler core dataya kayıt ediliyor,sonrasında sizi geri tableview olan kısıma atıyor ve coredataya kayıt ettiğiniz değeri tableviewda görebiliyorsunuz.Eğer o değere basarsanız sizi bu sefer save kaldırılmış şekilde kayıt ettiğiniz resim ile girdiğiniz değerler karşılayacak. Eğer tableviewdaki kayıt edilmiş değeri sola kaydırırsanız değeri hem coredatadan hem de tableviewdan kaldırabilirsiniz
 
 
+# Uygulama Resimleri 
+
+# -1-
+
+![](uygulama-image-1)
+
+# -2-
+
+![](uygulama-image-2)
+
+# -3-
+
+![](uygulama-image-3)
+
+# -4-
+
+![](uygulama-image-4)
+
+# -5-
+
+![](uygulama-image-5)
+
